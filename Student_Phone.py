@@ -8,5 +8,5 @@ class Phone(Student):
     def address(self):
         return "DH Quarng Binh - LAO"
     def telegram_id(self):
-        return "+856 2098743412"
+        return "6675229980"
     
