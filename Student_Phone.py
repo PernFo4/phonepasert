@@ -9,4 +9,3 @@ class Phone(Student):
         return "DH Quarng Binh - LAO"
     def telegram_id(self):
         return "6675229980"
-    
